@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Project Overview
-The purpose of this project was to apply machine learning to credit card risk. Credit risk is as unbalanced as good loans outnumber risky loans. Various machine learning models were used to determine which is best at predicting a customer's credit risk for loan approvals. The six models that were used for this project are RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalanceRandomForestClassifier, and EasyEnsembleClassifier. 
+The purpose of this project was to apply machine learning to credit card risk. Credit risk is inherently unbalanced as good loans outnumber risky loans. Various machine learning models were used to determine which is best at predicting a customer's credit risk for loan approvals. The six models that were used for this project are RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalanceRandomForestClassifier, and EasyEnsembleClassifier. 
 
 ## Resources
 Data: LoanStats_2019Q1.csv
